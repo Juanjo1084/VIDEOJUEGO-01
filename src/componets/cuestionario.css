@@ -1,0 +1,75 @@
+.cuestionario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.questions {
+    background-color: var(--color-fondo);
+    min-width: 500px;
+    min-height: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.questions ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.questions h3 {
+    color: var(--color-texto);
+    font-size: 18px;
+    margin-bottom: 10px;    
+    text-align: center;
+}
+
+.opciones {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.btn-1 {
+    background-color: var(--color-defensa);
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+    color: var(--color-texto);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 20px;
+}
+
+.btn-1:hover {
+    background-color: var(--color-facil);
+    color: var(--color-texto);
+    transition: ease-in-out 500ms;
+}
+
+.fuerza {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fuerza p {
+    text-align: center;
+    width: 100%;
+}
+
+.rival {
+    display: flex;
+
+}
+
+.rival img {
+    width: 300px;
+}

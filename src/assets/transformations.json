@@ -1,0 +1,63 @@
+{
+    "transformations": [
+       {
+        "id": 0,
+        "name": "Goku",
+        "image": "https://dragonball-api.com/characters/goku_normal.webp",
+        "ki": 0,
+        "deletedAt": null
+      },
+      {
+        "id": 1,
+        "name": "Goku SSJ",
+        "image": "https://dragonball-api.com/transformaciones/goku_ssj.webp",
+        "ki": 20000000,
+        "deletedAt": null
+      },
+      {
+        "id": 2,
+        "name": "Goku SSJ2",
+        "image": "https://dragonball-api.com/transformaciones/goku_ssj2.webp",
+        "ki": 60000000,
+        "deletedAt": null
+      },
+      {
+        "id": 3,
+        "name": "Goku SSJ3",
+        "image": "https://dragonball-api.com/transformaciones/goku_ssj3.webp",
+        "ki": 2400000000,
+        "deletedAt": null
+      },
+      {
+        "id": 4,
+        "name": "Goku SSJ4",
+        "image": "https://dragonball-api.com/transformaciones/goku_ssj4.webp",
+        "ki": 4000000000,
+        "deletedAt": null
+      },
+      {
+        "id": 5,
+        "name": "Goku SSJB",
+        "image": "https://dragonball-api.com/transformaciones/goku_ssjb.webp",
+        "ki": 10000000000,
+        "deletedAt": null
+      },
+      {
+        "id": 6,
+        "name": "Goku Ultra Instinc",
+        "image": "https://dragonball-api.com/transformaciones/goku_ultra.webp",
+        "ki": 50000000000,
+        "deletedAt": null
+      },
+      {
+        "id": 38,
+        "name": "Jiren",
+        "ki": "35000000000",
+        "description": "Jiren es un poderoso luchador del Universo 11 y uno de los oponentes más formidables en el torneo.",
+        "image": "https://dragonball-api.com/characters/Jiren.webp",
+        "affiliation": "Pride Troopers",
+        "deletedAt": null
+        }
+
+    ]
+  }
